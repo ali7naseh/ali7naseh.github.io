@@ -1,4 +1,4 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am X, a third-year PhD student at the Manning College of Information & Computer Sciences, University of Massachusetts Amherst, advised by Prof. Amir Houmansadr. My research interest lies in the various dimensions of trustworthy machine learning. Recently, I have been particularly focused on the trustworthiness of Large Language Models (LLMs) and Multimodal systems.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

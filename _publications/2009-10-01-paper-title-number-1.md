@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: ''
 date: 2023/11/15
-venue: '2023 ACM SIGSAC Conference on Computer and Communications Security'
+venue: 'ACM SIGSAC Conference on Computer and Communications Security'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3576915.3616652'
 ---
 

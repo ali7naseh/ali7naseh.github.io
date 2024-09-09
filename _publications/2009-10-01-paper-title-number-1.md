@@ -3,7 +3,7 @@ title: "Stealing the decoding algorithms of language models"
 collection: publications
 permalink: 
 excerpt: ''
-date: 
+date: 2023/11/15
 venue: '2023 ACM SIGSAC Conference on Computer and Communications Security'
 slidesurl: ''
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3576915.3616652'

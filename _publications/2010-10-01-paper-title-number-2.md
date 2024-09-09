@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: ''
 date: 2024-07-10
-venue: 'Conference on Language Modeling (COLM) 2024'
+venue: 'Conference on Language Modeling (COLM)'
 paperurl: 'https://openreview.net/pdf?id=SwUsFTtM9h'
 ---
 

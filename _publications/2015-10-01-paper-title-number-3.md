@@ -3,7 +3,7 @@ title: "Diffence: Fencing Membership Privacy With Diffusion Models"
 collection: publications
 permalink: 
 excerpt: ''
-date: 2025
+date: 2025-01-01
 venue: 'The Network and Distributed System Security (NDSS) Symposium'
 slidesurl: ''
 paperurl: 'https://arxiv.org/pdf/2312.04692'

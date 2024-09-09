@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Stealing the decoding algorithms of language models"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: '2023 ACM SIGSAC Conference on Computer and Communications Security'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3576915.3616652'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

@@ -11,7 +11,7 @@ I am a fourth-year Ph.D. student at the Manning College of Information & Compute
 
 
 ## News
-- **September 16, 2024**: Our paper, "Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images," was selected for an **oral spotlight presentation** at the COLM (top 2%).
+- **September 16, 2024**: Our paper, "Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images," was selected for an **oral spotlight presentation** at the 2024 COLM (top 2%).
 - **August 30, 2024**: Our paper, "Diffence: Fencing Membership Privacy With Diffusion Models," was accepted at the 2025 NDSS.
 - **July 10, 2024**: Our paper, "Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images," was accepted at the 2024 COLM.
 - **May 20, 2024**: I started a new position as a Research Intern at Oracle, where I am working on membership inference attacks in LLMs.

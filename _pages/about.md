@@ -11,6 +11,8 @@ I am a fourth-year Ph.D. student at the Manning College of Information & Compute
 
 
 ## News
+- **June 11, 2025**: Our paper, ["Backdooring Bias (B²) into Stable Diffusion Models"](https://arxiv.org/pdf/2406.15213), was accepted at the 2025 USENIX.
+- **May 19, 2025**: I returned to Oracle Labs as a Research Intern this summer.
 - **May 1, 2025**: Our paper, ["Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation"](https://arxiv.org/pdf/2502.00306), was accepted at the 2025 CCS.
 - **February 5, 2025**: Our new preprint, ["OverThink: Slowdown Attacks on Reasoning LLMs"](https://arxiv.org/pdf/2502.02542), is out.
 - **February 1, 2025**: Our new preprint, ["Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation"](https://arxiv.org/pdf/2502.00306), is out.

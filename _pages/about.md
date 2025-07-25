@@ -9,6 +9,11 @@ redirect_from:
 
 I am a fourth-year Ph.D. student at the Manning College of Information & Computer Sciences at UMass Amherst, advised by [Amir Houmansadr](https://people.cs.umass.edu/~amir/). My general research interest lies in **trustworthy machine learning**, with a current focus on various aspects of **trustworthy generative AI**, including large language models and multimodal models. I obtained my bachelor's degree from Sharif University of Technology.
 
+## 🤝 Open to Collaboration
+
+Curious about how to break generative models? Me too. I'm happy to chat, brainstorm, or collaborate on new ideas around **LLM and multimodal model vulnerabilities**. Just shoot me an email: anaseh (at) umass.edu.
+
+
 
 ## News
 - **June 11, 2025**: Our paper, ["Backdooring Bias (B²) into Stable Diffusion Models"](https://arxiv.org/pdf/2406.15213), was accepted at the 2025 USENIX.

@@ -16,6 +16,7 @@ Curious about how to break generative models? Me too. I'm happy to chat, brainst
 
 
 ## News
+- **July 11, 2025**: Our new preprint, ["Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"](https://arxiv.org/pdf/2507.08983), is out.
 - **June 11, 2025**: Our paper, ["Backdooring Bias (B²) into Stable Diffusion Models"](https://arxiv.org/pdf/2406.15213), was accepted at the 2025 USENIX.
 - **May 19, 2025**: I returned to Oracle Labs as a Research Intern this summer.
 - **May 1, 2025**: Our paper, ["Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation"](https://arxiv.org/pdf/2502.00306), was accepted at the 2025 CCS.

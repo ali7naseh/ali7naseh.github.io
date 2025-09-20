@@ -16,6 +16,8 @@ Curious about how to break generative models? Me too. I'm happy to chat, brainst
 
 
 ## News
+- **September 9, 2025**: Our paper, ["Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"](https://arxiv.org/pdf/2507.08983), was accepted at the 2026 IEEE Symposium on Security and Privacy (S&P).
+- **September 1, 2025**: Our new preprint, ["Throttling Web Agents Using Reasoning Gates"](https://arxiv.org/pdf/2509.01619), is out.
 - **July 11, 2025**: Our new preprint, ["Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"](https://arxiv.org/pdf/2507.08983), is out.
 - **June 11, 2025**: Our paper, ["Backdooring Bias (B²) into Stable Diffusion Models"](https://arxiv.org/pdf/2406.15213), was accepted at the 2025 USENIX.
 - **May 19, 2025**: I returned to Oracle Labs as a Research Intern this summer.

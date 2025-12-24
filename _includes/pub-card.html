@@ -1,0 +1,36 @@
+<div class="pub-card">
+  <div class="pub-thumb">
+    {% if include.item.teaser %}
+      <img src="{{ include.item.teaser | relative_url }}" alt="{{ include.item.title }}">
+    {% else %}
+      <div class="pub-thumb-placeholder"></div>
+    {% endif %}
+  </div>
+
+  <div class="pub-body">
+    <h3 class="pub-title">
+      {% if include.item.paperurl %}
+        <a href="{{ include.item.paperurl }}" target="_blank" rel="noopener">{{ include.item.title }}</a>
+      {% else %}
+        {{ include.item.title }}
+      {% endif %}
+    </h3>
+
+    {% if include.item.authors %}
+      <p class="pub-authors">{{ include.item.authors }}</p>
+    {% endif %}
+
+    {% if include.item.venue or include.item.date %}
+      <p class="pub-venue">
+        {% if include.item.venue %}{{ include.item.venue }}{% endif %}
+        {% if include.item.date %} — {{ include.item.date | date: "%Y" }}{% endif %}
+      </p>
+    {% endif %}
+
+    <div class="pub-links">
+      {% if include.item.paperurl %}<a class="pub-btn" href="{{ include.item.paperurl }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+      {% if include.item.bibtex %}<a class="pub-btn" href="{{ include.item.bibtex | relative_url }}">BibTeX</a>{% endif %}
+      {% if include.item.code %}<a class="pub-btn" href="{{ include.item.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+    </div>
+  </div>
+</div>

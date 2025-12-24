@@ -17,7 +17,9 @@
     </h3>
 
     {% if include.item.authors %}
-      <p class="pub-authors">{{ include.item.authors }}</p>
+      <p class="pub-authors">
+        {{ include.item.authors | replace: "Ali Naseh", "<strong>Ali Naseh</strong>" }}
+      </p>
     {% endif %}
 
     {% if include.item.venue or include.item.date %}

@@ -6,4 +6,5 @@ authors: "Ali Naseh, Kalpesh Krishna, Mohit Iyyer, Amir Houmansadr"
 paperurl: "https://arxiv.org/pdf/2303.04729"
 confpaperurl: "https://dl.acm.org/doi/pdf/10.1145/3576915.3616652"
 teaser: "/images/decoding_stealing.png"
+award: "🏆 Distinguished Paper Award"
 ---

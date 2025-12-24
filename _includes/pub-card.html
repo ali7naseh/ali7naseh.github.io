@@ -21,6 +21,9 @@
         {{ include.item.authors | replace: "Ali Naseh", "<strong>Ali Naseh</strong>" }}
       </p>
     {% endif %}
+    {% if include.item.equal_contrib %}
+      <p class="pub-equal">{{ include.item.equal_contrib }}</p>
+    {% endif %}
 
     {% if include.item.venue or include.item.date %}
       <p class="pub-venue">

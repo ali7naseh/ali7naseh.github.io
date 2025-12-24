@@ -30,7 +30,8 @@
     {% endif %}
 
     <div class="pub-links">
-      {% if include.item.paperurl %}<a class="pub-btn" href="{{ include.item.paperurl }}" target="_blank" rel="noopener">PDF</a>{% endif %}
+      {% if include.item.paperurl %}<a class="pub-btn" href="{{ include.item.paperurl }}" target="_blank" rel="noopener">arXiv</a>{% endif %}
+      {% if include.item.paperurl %}<a class="pub-btn" href="{{ include.item.confpaperurl }}" target="_blank" rel="noopener">Paper</a>{% endif %}
       {% if include.item.bibtex %}<a class="pub-btn" href="{{ include.item.bibtex | relative_url }}">BibTeX</a>{% endif %}
       {% if include.item.code %}<a class="pub-btn" href="{{ include.item.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
     </div>

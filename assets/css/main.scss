@@ -70,10 +70,12 @@
 
 
 .pub-thumb{
-  width:280px; min-width:280px;
-  border-radius:14px; overflow:hidden;
-  border:1px solid rgba(0,0,0,0.08);
-  background:#fafafa;
+  width: 220px;
+  min-width: 220px;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: #fafafa;
 }
 
 .pub-thumb img{ width:100%; height:auto; display:block; }

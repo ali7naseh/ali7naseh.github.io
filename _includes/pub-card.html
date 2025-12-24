@@ -24,8 +24,10 @@
 
     {% if include.item.venue or include.item.date %}
       <p class="pub-venue">
-        {% if include.item.venue %}{{ include.item.venue }}{% endif %}
-        {% if include.item.date %} — {{ include.item.date | date: "%Y" }}{% endif %}
+        {{ include.item.venue }} — {{ include.item.date | date: "%Y" }}
+        {% if include.item.award %}
+          <span class="pub-award">{{ include.item.award }}</span>
+        {% endif %}
       </p>
     {% endif %}
 

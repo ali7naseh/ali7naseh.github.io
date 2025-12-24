@@ -74,6 +74,12 @@
 
 .pub-authors{ margin:0 0 8px 0; color: rgba(0,0,0,0.72); }
 .pub-venue{ margin:0 0 14px 0; color: rgba(0,0,0,0.62); font-style: italic; }
+.pub-award {
+  margin-left: 10px;
+  font-weight: 600;
+  color: #b8860b; /* gold */
+  white-space: nowrap;
+}
 
 .pub-links{ display:flex; flex-wrap:wrap; gap:10px; }
 

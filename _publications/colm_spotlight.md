@@ -7,5 +7,5 @@ paperurl: "https://arxiv.org/pdf/2404.13784"
 confpaperurl: "https://openreview.net/pdf?id=SwUsFTtM9h"
 teaser: "/images/colm_spotlight.png"
 talk: "https://www.youtube.com/watch?v=m8MCuCtEKz8"
-award: 🔦 oral spotlight
+award: 🔦 Oral Spotlight
 ---

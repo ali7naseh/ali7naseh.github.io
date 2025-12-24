@@ -83,7 +83,5 @@
   .pub-thumb{ width:100%; min-width:0; }
 }
 
-.page__content .pub-list {
-  max-width: 800px;
-  margin: 0 auto;
-}
+.pub-list { outline: 6px solid red !important; }
+

@@ -83,7 +83,11 @@
 
 .pub-body{ flex:1; }
 .pub-title{ font-size:1.35rem; line-height:1.2; margin:0 0 10px 0; }
-.pub-title a{ text-decoration:none; }
+.pub-title{
+  font-size: 1.18rem;
+  line-height: 1.25;
+  margin: 0 0 8px 0;
+}
 
 .pub-authors{ margin:0 0 8px 0; color: rgba(0,0,0,0.72); }
 .pub-venue{ margin:0 0 14px 0; color: rgba(0,0,0,0.62); font-style: italic; }

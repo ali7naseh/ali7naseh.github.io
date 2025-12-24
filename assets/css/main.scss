@@ -53,10 +53,21 @@
 }
 
 .pub-card{
-  display:flex; gap:22px; align-items:flex-start;
-  padding:18px; border-radius:16px; background:#fff;
+  display: flex;
+  gap: 22px;
+  align-items: flex-start;
+
+  padding: 18px;
+  border-radius: 16px;
+  background: #fff;
   box-shadow: 0 10px 28px rgba(0,0,0,0.08);
+
+  /* 👇 ADD THESE */
+  max-width: 980px;        /* try 900px or 850px if you want smaller */
+  width: 100%;
+  margin: 0 auto;
 }
+
 
 .pub-thumb{
   width:280px; min-width:280px;

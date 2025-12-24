@@ -5,5 +5,5 @@ venue: "NDSS"
 authors: "Yufeng Peng, Ali Naseh, Amir Houmansadr"
 paperurl: "https://arxiv.org/pdf/2312.04692"
 teaser: "/images/diffence.png"
-code: "https://github.com/ali7naseh/ali7naseh.github.io"
+code: "https://github.com/SPIN-UMass/Diffence"
 ---

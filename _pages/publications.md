@@ -1,10 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 classes: publications-page
 ---
+<p class="pub-note">
+  For a complete list of publications, please see my
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=1K2KvWwAAAAJ" target="_blank">
+    Google Scholar profile
+  </a>.
+</p>
 
 <div class="pub-list">
   {% assign pubs = site.publications | sort: "date" | reverse %}

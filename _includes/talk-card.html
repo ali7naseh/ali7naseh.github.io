@@ -1,0 +1,27 @@
+<div class="talk-card">
+  <div class="talk-body">
+    <h3 class="talk-title">
+      {% if include.item.url %}
+        <a href="{{ include.item.url }}">{{ include.item.title }}</a>
+      {% else %}
+        {{ include.item.title }}
+      {% endif %}
+    </h3>
+
+    <p class="talk-meta">
+      {{ include.item.date | date: "%B %d, %Y" }}
+      <span class="talk-sep">·</span>
+      {{ include.item.venue }}
+    </p>
+
+    {% if include.item.links %}
+      <div class="talk-links">
+        {% for l in include.item.links %}
+          <a class="talk-btn" href="{{ l.url }}" target="_blank">
+            {{ l.label }}
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+</div>

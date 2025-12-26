@@ -9,13 +9,10 @@ redirect_from:
 
 I am a fourth-year Ph.D. student at the Manning College of Information & Computer Sciences at UMass Amherst, advised by [Amir Houmansadr](https://people.cs.umass.edu/~amir/). My research focuses on **trustworthy generative AI**, with an emphasis on **privacy and security risks in large language models and multimodal systems**. I obtained my bachelor's degree from Sharif University of Technology.
 
-### 🤝 Open to Collaboration
-
-Curious about how to break generative models? Me too. I'm happy to chat, brainstorm, or collaborate on new ideas around **LLM and multimodal model vulnerabilities**. Just shoot me an email: anaseh (at) umass.edu.
 
 <div class="collab-box">
   🤝 <strong>Open to Collaboration</strong><br>
-  Curious about how to break generative models? ...
+  Curious about how to break generative models? Me too. I'm happy to chat, brainstorm, or collaborate on new ideas around **LLM and multimodal model vulnerabilities**. Just shoot me an email: anaseh (at) umass.edu.
 </div>
 
 ## News & Updates

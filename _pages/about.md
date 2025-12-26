@@ -18,7 +18,7 @@ Curious about how to break generative models? Me too. I'm happy to chat, brainst
   Curious about how to break generative models? ...
 </div>
 
-## News
+## News & Updates
 
 {% assign k = 5 %}
 {% assign news_sorted = site.data.news | sort: "date" | reverse %}

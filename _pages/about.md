@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. student at the Manning College of Information & Compute
 
 <div class="collab-box">
   🤝 <strong>Open to Collaboration</strong><br>
-  Curious about how to break generative models? Me too. I'm happy to chat, brainstorm, or collaborate on new ideas around **LLM and multimodal model vulnerabilities**. Just shoot me an email: anaseh (at) umass.edu.
+  Curious about how to break generative models? Me too. I'm happy to chat, brainstorm, or collaborate on new ideas around <strong>LLM and multimodal model vulnerabilities</strong>. Just shoot me an email: anaseh (at) umass.edu.
 </div>
 
 ## News & Updates

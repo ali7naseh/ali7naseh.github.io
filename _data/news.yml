@@ -1,0 +1,56 @@
+- date: 2025-09-09
+  text: 'Our paper, <a href="https://arxiv.org/pdf/2507.08983" target="_blank">"Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"</a>, was accepted at the 2026 IEEE Symposium on Security and Privacy (S&amp;P).'
+
+- date: 2025-09-01
+  text: 'Our new preprint, <a href="https://arxiv.org/pdf/2509.01619" target="_blank">"Throttling Web Agents Using Reasoning Gates"</a>, is out.'
+
+- date: 2025-07-11
+  text: 'Our new preprint, <a href="https://arxiv.org/pdf/2507.08983" target="_blank">"Exploiting Leaderboards for Large-Scale Distribution of Malicious Models"</a>, is out.'
+
+- date: 2025-06-11
+  text: 'Our paper, <a href="https://arxiv.org/pdf/2406.15213" target="_blank">"Backdooring Bias (B²) into Stable Diffusion Models"</a>, was accepted at the 2025 USENIX.'
+
+- date: 2025-05-19
+  text: 'I returned to Oracle Labs as a Research Intern this summer.'
+
+- date: 2025-05-01
+  text: 'Our paper, <a href="https://arxiv.org/pdf/2502.00306" target="_blank">"Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation"</a>, was accepted at the 2025 ACM CCS.'
+
+- date: 2025-02-05
+  text: 'Our new preprint, <a href="https://arxiv.org/pdf/2502.02542" target="_blank">"OverThink: Slowdown Attacks on Reasoning LLMs"</a>, is out.'
+
+- date: 2025-02-01
+  text: 'Our new preprint, <a href="https://arxiv.org/pdf/2502.00306" target="_blank">"Riddle Me This! Stealthy Membership Inference for Retrieval-Augmented Generation"</a>, is out.'
+
+- date: 2025-01-20
+  text: 'Our new preprint, <a href="https://arxiv.org/pdf/2501.11786" target="_blank">"Synthetic Data Can Mislead Evaluations: Membership Inference as Machine Text Detection"</a>, is out.'
+
+- date: 2024-09-16
+  text: '🔦 Our paper, <a href="https://openreview.net/pdf?id=SwUsFTtM9h" target="_blank">"Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images"</a>, was selected for an <strong>Oral Spotlight Presentation</strong> at COLM 2024 (Top 2%).'
+
+- date: 2024-08-30
+  text: 'Our paper, <a href="https://arxiv.org/pdf/2312.04692" target="_blank">"Diffence: Fencing Membership Privacy With Diffusion Models"</a>, was accepted at the 2025 NDSS.'
+
+- date: 2024-07-10
+  text: 'Our paper, <a href="https://openreview.net/pdf?id=SwUsFTtM9h" target="_blank">"Iteratively Prompting Multimodal LLMs to Reproduce Natural and AI-Generated Images"</a>, was accepted at the 2024 COLM.'
+
+- date: 2024-05-20
+  text: 'I started a new position as a Research Intern at Oracle, working on membership inference attacks in LLMs.'
+
+- date: 2024-05-17
+  text: 'I received my Master’s degree and subsequently advanced to Ph.D. candidacy.'
+
+- date: 2024-05-06
+  text: '🌟 I received the <strong>Distinction Award for Portfolio Excellence</strong> from the Manning College of Information &amp; Computer Sciences at UMass Amherst.'
+
+- date: 2024-03-15
+  text: 'I presented a talk titled <a href="https://dl.acm.org/doi/pdf/10.1145/3576915.3616652" target="_blank">"Stealing the Decoding Algorithms of Language Models"</a> at the 2024 New England Security Day.'
+
+- date: 2023-12-22
+  text: 'Our paper, <a href="https://arxiv.org/pdf/2312.03692" target="_blank">"Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication"</a>, was accepted at the 2024 PPAI.'
+
+- date: 2023-11-30
+  text: '🏆 Our paper, <a href="https://dl.acm.org/doi/pdf/10.1145/3576915.3616652" target="_blank">"Stealing the Decoding Algorithms of Language Models"</a>, won a <strong>Distinguished Paper Award</strong> at the 2023 ACM CCS.'
+
+- date: 2023-05-08
+  text: 'Our paper, <a href="https://dl.acm.org/doi/pdf/10.1145/3576915.3616652" target="_blank">"Stealing the Decoding Algorithms of Language Models"</a>, was accepted at the 2023 ACM CCS.'

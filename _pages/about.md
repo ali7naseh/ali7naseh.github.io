@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at the Manning College of Information & Computer Sciences at UMass Amherst, advised by [Amir Houmansadr](https://people.cs.umass.edu/~amir/). My research focuses on **trustworthy generative AI**, with an emphasis on **privacy and security risks in large language models and multimodal systems**. I obtained my bachelor's degree from Sharif University of Technology.
+I am a fourth-year Ph.D. student at the Manning College of Information & Computer Sciences at UMass Amherst, advised by [Amir Houmansadr](https://people.cs.umass.edu/~amir/). My research focuses on **trustworthy generative AI**, with an emphasis on **privacy and security risks in large language models and multimodal systems**. I obtained my bachelor's degree from Aryamehr University of Technology.
 
 
 <div class="collab-box">
